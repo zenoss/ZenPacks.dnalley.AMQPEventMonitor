@@ -5,7 +5,7 @@
 NAME = "ZenPacks.dnalley.AMQPEventMonitor"
 VERSION = "1.0"
 AUTHOR = "David Nalley"
-LICENSE = "GPLv2+"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.dnalley']
 PACKAGES = ['ZenPacks', 'ZenPacks.dnalley', 'ZenPacks.dnalley.AMQPEventMonitor']
 INSTALL_REQUIRES = []
